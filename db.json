@@ -7,5 +7,15 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "auth": {
+    "key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjIxNiwiaWQiOjIxNi",
+    "data": {
+      "email": "travis@demo.com",
+      "first_name": "Travis",
+      "last_name": "Priest",
+      "pk": 2
+    },
+    "success": true
   }
 }
