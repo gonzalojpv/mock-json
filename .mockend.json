@@ -9,5 +9,25 @@
   "Comment": {
     "body": "string",
     "post": "Post"
+  },
+  "Video": {
+    "name": "string",
+    "thumbnail": "string",
+    "source": "string",
+    "destination": "string",
+    "url": "string",
+    "status": "string",
+    "duration": "int",
+    "uploaded": "boolean",
+    "published": "boolean",
+    "createdAt": "date",
+    "audio": "Audio[]"
+  },
+  "Audio": {
+    "title": "string",
+    "lang_code": "string",
+    "url": "string",
+    "published": "boolean",
+    "createdAt": "date"
   }
 }

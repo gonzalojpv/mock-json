@@ -8,6 +8,17 @@
   "profile": {
     "name": "typicode"
   },
+  "users": [
+    {
+      "key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjIxNiwiaWQiOjIxNi",
+      "data": {
+        "email": "travis@demo.com",
+        "first_name": "Travis",
+        "last_name": "Priest",
+        "pk": 2
+      }
+    }
+  ],
   "auth": {
     "key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjIxNiwiaWQiOjIxNi",
     "data": {
