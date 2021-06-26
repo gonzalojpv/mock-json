@@ -12,7 +12,7 @@
   },
   "Video": {
     "name": "string",
-    "thumbnail": "string",
+    "thumbnail": "http://i3.ytimg.com/vi/07d2dXHYb94/hqdefault.jpg",
     "source": "string",
     "destination": "string",
     "url": "string",
