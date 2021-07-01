@@ -39,19 +39,30 @@
       "id": 2,
       "name": "Template 2",
       "source": "src_manual_review",
-      "translation": "professional_review"
+      "translation": "professional_review",
+      "to": [
+        { "label": "English", "value": 1 }
+      ]
     },
     {
       "id": 3,
       "name": "Template 3",
       "source": "src_manual_review",
-      "translation": "manual_review"
+      "translation": "manual_review",
+      "to": [
+        { "label": "English", "value": 1 },
+        { "label": "Spanish", "value": 24 }
+      ]
     },
     {
       "id": 4,
       "name": "Template 4",
       "source": "src_professional_review",
-      "translation": "no_review"
+      "translation": "no_review",
+      "to": [
+        { "label": "English", "value": 1 },
+        { "label": "French", "value": 23 }
+      ]
     }
   ]
 }
