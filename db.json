@@ -36,6 +36,18 @@
       "name": "Template 2",
       "source": "src_manual_review",
       "translation": "professional_review"
+    },
+    {
+      "id": 3,
+      "name": "Template 3",
+      "source": "src_manual_review",
+      "translation": "professional_review"
+    },
+    {
+      "id": 4,
+      "name": "Template 4",
+      "source": "src_professional_review",
+      "translation": "professional_review"
     }
   ]
 }
