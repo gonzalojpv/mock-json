@@ -30,6 +30,12 @@
       "name": "Template 1",
       "source": "src_no_review",
       "translation": "manual_review"
+    },
+    {
+      "id": 2,
+      "name": "Template 2",
+      "source": "src_manual_review",
+      "translation": "professional_review"
     }
   ]
 }
