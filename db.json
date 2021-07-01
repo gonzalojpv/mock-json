@@ -27,7 +27,9 @@
   "jobs": [
     {
       "id": 1,
-      "name": "Template 1"
+      "name": "Template 1",
+      "source": "src_no_review",
+      "translation": "manual_review"
     }
   ]
 }
