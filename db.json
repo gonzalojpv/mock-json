@@ -27,11 +27,7 @@
   "jobs": [
     {
       "id": 1,
-      "name": "Template 1",
-      "to": [
-        { "label": "English", "value": 1 },
-        { "label": "German", "value": 2 }
-      ]
+      "name": "Template 1"
     }
   ]
 }
