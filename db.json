@@ -37,38 +37,7 @@
       "to": [
         { "label": "English", "value": 1 },
         { "label": "German", "value": 2 }
-      ], 
-      "source": "src_no_review",
-      "translation": "manual_review"
-    },
-    {
-      "id": 2,
-      "name": "Template 2",
-      "to": [
-        { "label": "English", "value": 1 }
-      ], 
-      "source": "src_manual_review",
-      "translation": "professional_review"
-    },
-    {
-      "id": 3,
-      "name": "Template 3",
-      "to": [
-        { "label": "English", "value": 1 },
-        { "label": "Spanish", "value": 24 }
-      ], 
-      "source": "src_manual_review",
-      "translation": "professional_review"
-    },
-    {
-      "id": 4,
-      "name": "Template 4",
-      "to": [
-        { "label": "English", "value": 1 },
-        { "label": "French", "value": 23 }
-      ], 
-      "source": "src_professional_review",
-      "translation": "professional_review"
+      ]
     }
   ]
 }
