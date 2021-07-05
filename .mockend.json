@@ -29,5 +29,10 @@
     "url": "string",
     "published": "boolean",
     "createdAt": "date"
+  },
+  "Language": {
+      "label": "string",
+      "value": "int",
+      "code": "string"
   }
 }
